@@ -16,7 +16,7 @@ public class verifylogin extends testdata {
 		validate.Authorization();
 
 		validate.Manage();
-//new
+//old
 
 	}
 
